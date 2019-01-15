@@ -3,8 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "apollo-boost": "^0.1.23",
+    "apollo-cache-inmemory": "latest",
+    "apollo-link-context": "^1.0.12",
+    "apollo-link-http": "latest",
+    "graphql": "^14.0.2",
+    "graphql-tag": "latest",
     "react": "^16.7.0",
+    "react-apollo": "^2.3.3",
     "react-dom": "^16.7.0",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.3"
   },
   "scripts": {
